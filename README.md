@@ -16,7 +16,7 @@ $ python 2D.py <sequence_number> <mode> <total_frame>
 
 ### Example
 
-<video src="example.mp4"></video>
+[example.gif]('./example.gif')
 
 If the script has problem, contact me via [Email](3295133437@qq.com).
 
