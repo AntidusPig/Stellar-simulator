@@ -16,7 +16,7 @@ $ python 2D.py <sequence_number> <mode> <total_frame>
 
 ### Example
 
-[example.gif]('./example.gif')
+[example.gif]('https://github.com/AntidusPig/Stellar-simulator/blob/main/example.gif')
 
 If the script has problem, contact me via [Email](3295133437@qq.com).
 
